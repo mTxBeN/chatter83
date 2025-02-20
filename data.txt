@@ -1,0 +1,22 @@
+{
+    "hi": "Hello! How can I assist you today?",
+    "hello": "Hello! How can I assist you today?",
+    "how are you": "Hi! It's great to have you here.",
+    "who was steve jobs": "Steve Jobs was a visionary leader who co-founded Apple Inc. and transformed the technology industry.",
+    "what is the capital of france": "The capital of France is Paris.",
+    "how does wifi work": "Wi-Fi works by using radio waves to transmit data over short distances.",
+    "who wrote harry potter": "The Harry Potter series was written by J.K. Rowling.",
+    "what is the speed of light": "The speed of light is approximately 299,792,458 meters per second in a vacuum.",
+    "what is ai": "Artificial Intelligence (AI) refers to systems that mimic human intelligence for tasks like learning and problem-solving.",
+    "who painted the mona lisa": "The Mona Lisa was painted by Leonardo da Vinci, renowned for his masterful technique and attention to detail.",
+    "who discovered gravity": "Isaac Newton formulated the law of gravity in the 17th century after studying planetary motion.",
+    "how many continents are there": "There are 7 continents in total.",
+    "how many legs does a spider have": "A spider has eight legs.",
+    "what is the currency in japan": "The official currency in Japan is the Japanese Yen (¥).",
+    "what languages do you speak": "Currently, I can only communicate in English.",
+    "in chemistry what is the symbol for gold": "The chemical symbol for gold is Au.",
+    "who is elon musk": "Elon Musk is a prominent entrepreneur known for his leadership at companies like Tesla and SpaceX.",
+    "what continent is france in": "France is located in Europe.",
+    "what is the capital of germany": "The capital of Germany is Berlin.",
+    "what is the largest ocean": "The Pacific Ocean is the largest ocean on Earth."
+}
